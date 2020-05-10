@@ -17,8 +17,12 @@ Step4: install pillow
      pip install pillow
 
 Step5:
+
     - Go to folder .\Data-Hiding-though-BinaryImage\venv\Include\
+    
     - open Command line or Power shell
+    
     - Enter the code: "python Data-Hiding.py"
+    
 
 
