@@ -11,11 +11,11 @@ Step1: install python 3
 
 Step2: install OpenCV
 
-      pip3 install opencv-python i
+      pip install opencv-python i
 
 Step3: install numpy
 
-      pip3 install numpy
+      pip install numpy
 
 Step4: install pillow
 
